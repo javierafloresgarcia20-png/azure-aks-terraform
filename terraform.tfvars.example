@@ -1,0 +1,4 @@
+location     = "westus2"
+cluster_name = "aks-demo"
+dns_prefix   = "aksdemo"
+node_size    = "Standard_B2s_v2"
